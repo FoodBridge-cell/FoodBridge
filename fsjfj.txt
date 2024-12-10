@@ -1,0 +1,1 @@
+i want to automate a voting process for a competition as we have the voters names in a physical list, but the voters did not give their phone numbers or their emails so i want to build a program which goes to this site, clicks on vote now
